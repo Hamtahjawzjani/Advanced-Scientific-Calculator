@@ -276,19 +276,19 @@ Tkinter is used to create the graphical user interface, while Python's mathemati
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/scientific-calculator.git
+git clone https://github.com/YOUR-USERNAME/Advanced-Scientific-calculator.git
 ```
 
 ### 2. Open the project directory
 
 ```bash
-cd scientific-calculator
+cd Advanced-Scientific-calculator
 ```
 
 ### 3. Run the calculator
 
 ```bash
-python "scientific calculator.py"
+python "Advanced-Scientific calculator.py"
 ```
 
 > Make sure Python is installed on your system.
