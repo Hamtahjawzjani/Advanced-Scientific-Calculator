@@ -1,4 +1,4 @@
-# 🧮 Scientific Calculator
+# 🧮 Advanced Scientific Calculator
 
 A feature-rich **Scientific Calculator** built with **Python and Tkinter**, designed to provide a clean, responsive, and practical calculator experience with both basic and advanced mathematical operations.
 
