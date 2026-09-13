@@ -1,6 +1,6 @@
 # 🧮 Advanced Scientific Calculator
 
-A feature-rich **Scientific Calculator** built with **Python and Tkinter**, designed to provide a clean, responsive, and practical calculator experience with both basic and advanced mathematical operations.
+A feature-rich **Advanced Scientific Calculator** built with **Python and Tkinter**, designed to provide a clean, responsive, and practical calculator experience with both basic and advanced mathematical operations.
 
 The calculator combines standard arithmetic operations with a wide range of scientific functions, angle modes, inverse functions, expression-based calculations, calculation history, percentage operations, and more.
 
